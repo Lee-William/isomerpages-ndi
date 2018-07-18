@@ -44,6 +44,8 @@ breadcrumbs:
 collections:
   application-guidelines:
     output: true
+  about-ndi:
+    output: true
 
 # Resource Room and Pagination
 resources_name: "resources"
