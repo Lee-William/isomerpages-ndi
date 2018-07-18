@@ -3,6 +3,7 @@ layout: leftnav-page-content
 title: Citizens
 permalink: /citizens/
 breadcrumb: Citizens
+collection-name: about-ndi
 ---
 
 ### **Create a frictionless user experience for customers**

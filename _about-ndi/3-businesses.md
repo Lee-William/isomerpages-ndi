@@ -3,6 +3,7 @@ layout: leftnav-page-content
 title: Businesses
 permalink: /businesses/
 breadcrumb: Businesses
+collection-name: about-ndi
 ---
 
 ### **Create a hassle free registration process for your business**

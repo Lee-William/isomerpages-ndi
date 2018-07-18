@@ -3,6 +3,7 @@ layout: leftnav-page-content
 title: Contribute
 permalink: /contribute/
 breadcrumb: Contribute
+collection-name: about-ndi
 ---
 
 ### **Contribute to the NDI Ecosystem**
