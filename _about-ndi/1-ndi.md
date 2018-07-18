@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: National Digital Identity
 permalink: /ndi/
 breadcrumb: NDI
-collection-name: about-ndi
+collection_name: about-ndi
 ---
 
 ### **NDI: A unique identity for every Singaporean**
