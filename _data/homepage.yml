@@ -10,21 +10,21 @@ agency-logo: /images/homepage/logo_hlb.svg
 # Hero Banner
 hero-title: National Digital Identity
 hero-subtitle: A platform to develop applications with access to key Government services
-hero-banner: /images/homepage/HLB_website_Blueprint.jpg 
+hero-banner: /images/homepage/HLB_website_Blueprint.jpg
 
 key-highlights:
   - title: Developers
     description: Build apps to access Government services
-    url: /resource_room/
+    url: /developers/
   - title: Businesses
-    description: LMGTFY
-    url: https://google.com
+    description: Create a hassle free registration process for your users
+    url: /businesses/
   - title: Citizens
-    description: Another search engine
-    url: https://yahoo.com/
-  - title: Contribute
+    description: Benefit from a frictionless customer journey
+    url: /citizens/
+  - title: Contribute to NDI
     description: Grow the NDI ecosystem with us
-    url: https://wikipedia.org
+    url: /ndi/
 
 # Resources Section
 resources-title: Resources
