@@ -10,7 +10,7 @@ agency-logo: /images/homepage/logo_hlb.svg
 # Hero Banner
 hero-title: National Digital Identity
 hero-subtitle: A platform to develop applications with access to key Government services
-hero-banner: /images/homepage/banner_Merlion.png
+hero-banner: /isomerpages-ndi/images/homepage/banner_Merlion.png
 
 key-highlights:
   - title: Developers
